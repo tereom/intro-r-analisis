@@ -13,7 +13,7 @@ description: "Taller introductorio a R enfocado a análisis de datos usando el t
 
 # Información del curso {-}
 
-Notas para taller inttroductorio a R enfocado en análisis de datos, a impartirse 
+Notas para taller introductorio a R enfocado en análisis de datos, a impartirse 
 *idealmente* en 4 sesiones de 2 horas. 
 
 En caso de encontrar errores o tener sugerencias del material se agradece la 
@@ -21,7 +21,7 @@ propuesta de correcciones mediante [pull requests](https://github.com/tereom/int
 
 #### Ligas {-}
 
-Notas:     
+Notas: https://intro-r-analisis.netlify.com  
 Correo: teresa.ortiz.mancera@gmail.com   
 GitHub: https://github.com/tereom/intro-r-analisis
 
