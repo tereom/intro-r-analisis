@@ -125,8 +125,8 @@ enlistamos algunos.
 * Para aprender más sobre un paquete o una función pueden visitar [Rdocumentation.org](http://www.rdocumentation.org/).    
 * La referencia principal de estas notas es el libro [R for Data Science](http://r4ds.had.co.nz/)
 de Hadley Wickham.  
-* Para aprender los comandos básicos de R [*Try R*](http://tryr.codeschool.com/) 
-y [Datacamp](https://www.datacamp.com/) cuentan con excelentes cursos 
+* Para aprender los comandos básicos de R [Datacamp](https://www.datacamp.com/) c
+uenta con excelentes cursos 
 interactivos.  
 * Para aprender programación avanzada en R, el libro gratuito 
 [Advanced R](http://adv-r.had.co.nz) de Hadley Wickham es una buena referencia. 
@@ -134,7 +134,13 @@ En particular es conveniente leer la [guía de estilo](http://adv-r.had.co.nz/St
 * Para mantenerse al tanto de las noticias de la comunidad de R pueden visitar 
 [R-bloggers](http://www.r-bloggers.com).  
 * Más del tidyverse: [Why the tidyverse](https://rviews.rstudio.com/2017/06/08/what-is-the-tidyverse/)  
-* Para aprovechar la funcionalidad de [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf).
+* Para aprovechar la funcionalidad de [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf).  
+* Para escuchar noticias y consejos twitter \#rstats
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The most important thing I&#39;ve ever done for learning R is to paradoxically stop &quot;learning&quot; (e.g. classes and problem sets) and start doing. Take a problem you have at work or school or a dataset you find interesting and get to work. Then write it up and post on githib or a blog. <a href="https://t.co/9aQZJRrlFK">https://t.co/9aQZJRrlFK</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1110229736956067840?ref_src=twsrc%5Etfw">March 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 ## Visualización con ggplot2
@@ -346,7 +352,7 @@ ser la fase que lleva más tiempo. Es por ello que el siguiente tema se enfocar�
 en herramientas para hacer transformaciones de manera eficiente.
 
 
-![](imagenes/manicule.jpg) Tarea. Explora la base de datos gapminder, estos 
+![](imagenes/manicule2.jpg) Tarea. Explora la base de datos gapminder, estos 
 datos están incluidos en el paquete del mismo nombre, para acceder a ellos basta 
 con cargar el paquete:
 

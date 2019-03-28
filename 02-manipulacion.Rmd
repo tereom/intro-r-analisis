@@ -11,8 +11,6 @@ comma <- function(x) format(x, digits = 2, big.mark = ",")
 theme_set(theme_minimal())
 ```
 
-**El material de la clase se puede descargar de [aquí](https://www.dropbox.com/s/gtxjn5xb39g2n09/02-manipulacion.zip?dl=0).**
-
 En esta sección continuamos con la introducción a R para análisis de datos, 
 en particular mostraremos herramientas de manipulación y transformación de 
 datos. Trataremos los siguientes puntos:
@@ -73,7 +71,8 @@ grupos, esto lo veremos más adelante.
 ### Ejemplos y lectura de datos {-}
 
 En esta sección trabajaremos con bases de datos de vuelos del aeropuerto de 
-Houston. Comenzamos importando los datos a R.
+Houston (los datos están en el repositorio de las notas. Comenzamos importando 
+los datos a R.
 
 Para leer los datos usamos funciones del paquete `readr` que forma parte del 
 `tidyverse`, notemos que si estamos usando RStudio podemos generar los comandos
