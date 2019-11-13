@@ -8,7 +8,7 @@ Están planeadas para impartirse *idealmente* en 4 sesiones de 2 horas.
 En caso de encontrar errores o tener sugerencias del material se agradece la 
 propuesta de correcciones mediante pull requests.
 
-#### Ligas {-}
+#### Ligas
 
 Notas: https://intro-r-analisis.netlify.com  
 Correo: teresa.ortiz.mancera@gmail.com   
